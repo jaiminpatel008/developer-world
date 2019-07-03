@@ -1,0 +1,31 @@
+Attitude #1 –  A bug is a question of my ability to write good code
+Fixing bugs is part and parcel of a software developer’s activities.  A bug is obviously the worst enemy of a Developer.  But how many developers think in the following lines while fixing the defects
+
+What I could have done to avoid this bug in the first place?
+How did I allow this bug to escape my eyes?
+OK, something wrong has happened this time.  How do I avoid the same mistake next time? What steps do I need to take?
+Truth is very few developers think on those lines.
+
+A  person willing to be a great developer should consider a bug as a threat to his position, as a threat to his credibility, as a threat to his programming skills.  That is the attitude that will make him/her a great developer.
+
+Attitude #2 – Mr. Tester, I challenge you to find bugs in my code
+How many developers have this attitude?  Many developers think that the job of the testers is to find bugs.  Yes.  Obviously, but that doesn’t mean as developers, we can take bugs for granted.
+
+A great developer or a person willing to be a great developer should always invite / challenge the tester to find bugs in his/her code.  He should have so much confidence in his code that he can challenge in such a way.
+
+Attitude #3 – No compromise on code quality
+Code quality should be of prime importance to a developer.  That will include following the right coding standards, making the code more maintainable using proper design and code refactoring, etc, etc.  But how many of us compromise code quality for many reasons best known to us?
+
+I can quote an instance in my project to explain this.  I was leading a team of developers and we were working on fixing something in the very last hours of a Friday night.  We had to give a build on Monday.  All of us were looking into the problem.  I got curious as I saw the problem and started getting my hands dirty in the code.  Time went by and only the last 5 mins were left for everyone’s cab.  It was a make or break.  We had to come the next day, if that was not solved today.  I did something at that time, which absolutely infuriated all my team members.  Unable to see the clarity in the running code, I refactored a bunch of lines at that last minute.  Everyone were so pissed of, that they started scolding me :-) asking if it was so important at that moment.  I answered “Yes, it is that important”.  Of course we worked the next day for other reasons, but the whole point was even though I had an option of fixing  the code in the running code, I chose to refactor the code not compromising on the code quality.
+
+A great developer or a person willing to become a great developer should never compromise on the code quality, no matter what.
+
+Attitude #4 – Confident but not arrogant
+A great developer or a person willing to be a great developer should be absolutely confident of his abilities but should not be arrogant towards fellow developers and testers.  He should always remember that he is part of a team that is working towards a common goal of shipping a project on time with good quality.
+
+Attitude #5 – Acknowledge the Tester
+It can happen that despite all the hard work and efforts put in by the great developer, a great tester can still find defects in his code.  In those cases, acknowledge the great tester.
+
+A great developer or a person willing to be a great developer should always acknowledge the tester for the bug that he found.  He/she should remember that the bug is the enemy, and not the tester!
+
+With this I conclude this post, hope you find it informative.  Thanks for the read. Cheers.
